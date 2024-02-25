@@ -1,0 +1,58 @@
+[15:30:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:30:01] [ServerMain/INFO]: No existing world data, creating new world
+[15:30:02] [ServerMain/INFO]: Loaded 7 recipes
+[15:30:02] [ServerMain/INFO]: Loaded 1271 advancements
+[15:30:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[15:30:03] [Server thread/INFO]: Loading properties
+[15:30:03] [Server thread/INFO]: Default game type: SURVIVAL
+[15:30:03] [Server thread/INFO]: Generating keypair
+[15:30:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:30:03] [Server thread/INFO]: Using epoll channel type
+[15:30:03] [Server thread/INFO]: Preparing level "world"
+[15:30:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:30:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:30:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:30:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:30:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:30:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:30:09] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[15:30:09] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[15:30:10] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[15:30:10] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[15:30:11] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[15:30:11] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[15:30:12] [Worker-Main-4/INFO]: Preparing spawn area: 15%
+[15:30:13] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[15:30:13] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[15:30:13] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[15:30:14] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[15:30:14] [Worker-Main-4/INFO]: Preparing spawn area: 21%
+[15:30:15] [Worker-Main-9/INFO]: Preparing spawn area: 24%
+[15:30:15] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[15:30:16] [Worker-Main-3/INFO]: Preparing spawn area: 31%
+[15:30:16] [Worker-Main-5/INFO]: Preparing spawn area: 34%
+[15:30:17] [Worker-Main-7/INFO]: Preparing spawn area: 37%
+[15:30:17] [Worker-Main-11/INFO]: Preparing spawn area: 41%
+[15:30:18] [Worker-Main-6/INFO]: Preparing spawn area: 44%
+[15:30:18] [Worker-Main-3/INFO]: Preparing spawn area: 48%
+[15:30:19] [Worker-Main-10/INFO]: Preparing spawn area: 52%
+[15:30:19] [Worker-Main-7/INFO]: Preparing spawn area: 54%
+[15:30:20] [Worker-Main-9/INFO]: Preparing spawn area: 56%
+[15:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 60%
+[15:30:21] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[15:30:21] [Worker-Main-9/INFO]: Preparing spawn area: 68%
+[15:30:22] [Worker-Main-8/INFO]: Preparing spawn area: 70%
+[15:30:22] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[15:30:23] [Worker-Main-2/INFO]: Preparing spawn area: 79%
+[15:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[15:30:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[15:30:24] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[15:30:25] [Worker-Main-10/INFO]: Preparing spawn area: 91%
+[15:30:25] [Worker-Main-7/INFO]: Preparing spawn area: 95%
+[15:30:26] [Server thread/INFO]: Time elapsed: 19381 ms
+[15:30:26] [Server thread/INFO]: Done (22.759s)! For help, type "help"
+[15:31:41] [User Authenticator #1/INFO]: UUID of player 1nfint0 is b6eb53c6-e73e-4b90-8130-45a9e17ed832
+[15:31:42] [Server thread/INFO]: 1nfint0[/172.21.80.1:56013] logged in with entity id 311 at (-4.5, 135.0, 0.5)
+[15:31:42] [Server thread/INFO]: 1nfint0 joined the game
+[16:04:52] [Server thread/INFO]: 1nfint0 lost connection: Disconnected
+[16:04:52] [Server thread/INFO]: 1nfint0 left the game
